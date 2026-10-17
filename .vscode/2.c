@@ -1,4 +1,5 @@
 #include <stdio.h>
+/* 降序冒泡排序练习 */
 int main()
 {   int i,j,k,a[5];
     
