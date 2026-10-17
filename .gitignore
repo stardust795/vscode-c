@@ -1,0 +1,15 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+*.gch
+
+# 调试文件
+*.dSYM/
+*.pdb
+*.ilk
+
+# 编辑器/系统
+.DS_Store
+Thumbs.db
